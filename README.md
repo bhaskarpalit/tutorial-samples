@@ -10,3 +10,6 @@ To find out more about Sense Tecnic, please refer to [Sensetecnic.com](http://se
 To find out more about FRED (Cloud based Node-RED), please refer to [FRED](https://fred.sensetecnic.com/)
 
 If you have any other questions, please contact us via info@sensetecnic.com
+
+## OWNER
+Bhaskar Palit
